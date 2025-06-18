@@ -1,6 +1,7 @@
 <!--
 **naiamartin/naiamartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,3 +18,26 @@ Here are some ideas to get you started:
 </h1>
 
 ### Software engineering student experimenting to find what inspires me most.
+- 🌱 I’m currently learning about Web 
+- 💬 Ask me about **Java, SQL, C++...or anything [here](https://github.com/{naiamartin}/{naiamartin}/issues)**
+- 😄 Pronouns: she/her
+   
+<br>
+
+<div align="center">
+  <a href="naia.martin@opendeusto.es">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mongodb,SQL,C,C++,Python" />
+  <img src="https://skillicons.dev/icons?i=html,figma" />
+</p>
+
+<hr>
