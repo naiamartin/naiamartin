@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 <hr>
 
-## 🚀 Class Projects
+## 🚀 Class Group Projects
 
-- [techdrop](https://github.com/naiamartin/techdrop) — Sockets proyect in C/C++ for a home delivery online service.
-- [virtual wardrobe](https://github.com/naiamartin/ArmarioVirtual) — Java app that helps you organize your wardrobe and wishlist (swing based GUI).
+- [techdrop](https://github.com/yagueto/techdrop) — Sockets proyect in C/C++ for a home delivery online service.
+- [virtual wardrobe](https://github.com/josubixente/ArmarioVirtual) — Java app that helps you organize your wardrobe and wishlist (swing based GUI).
 
 ## 📊 GitHub Stats
 
