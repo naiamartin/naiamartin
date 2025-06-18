@@ -16,4 +16,4 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi!+👋;+I'm+Naia+Martin!;" />
 </h1>
 
-### Software engineering student in a experimenting to find what inspires me most.
+### Software engineering student experimenting to find what inspires me most.
