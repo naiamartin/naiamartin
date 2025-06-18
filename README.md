@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mongodb,sql,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,c,cpp,python" />
   <img src="https://skillicons.dev/icons?i=html,figma" />
 </p>
 
