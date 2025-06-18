@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 ### Software engineering student experimenting to find what inspires me most.
 - 🌱 I’m currently learning about Web 
-- 💬 Ask me about **Java, SQL, C++...or anything [here](https://github.com/{naiamartin}/{naiamartin}/issues)**
+- 💬 Ask me about **Java, SQL, C++...or anything [here](https://github.com/naiamartin/naiamartin/issues)**
 - 😄 Pronouns: she/her
    
 <br>
 
 <div align="center">
-  <a href="naia.martin@opendeusto.es">
+  <a href="mailto:naia.martin@opendeusto.es">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
@@ -41,3 +41,10 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naiamartin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiamartin&layout=compact&theme=radical" />
+</p>
