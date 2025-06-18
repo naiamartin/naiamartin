@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 ### Software engineering student experimenting to find what inspires me most.
-- 🌱 I’m currently learning about Web 
+- 🌱 I’m currently working on my portfolio
 - 💬 Ask me about **Java, SQL, C++...or anything [here](https://github.com/naiamartin/naiamartin/issues)**
 - 😄 Pronouns: she/her
    
