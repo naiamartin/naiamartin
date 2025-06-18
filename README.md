@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=A259FF&duration=4000&lines=Hi:);+I'm+Naia+Martin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=A259FF&duration=4000&lines=Hola+:);+Soy+Naia+Martin!;" />
 </h1>
 
 ### Software engineering student experimenting to find what inspires me most.
@@ -41,6 +41,11 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+
+## 🚀 Class Projects
+
+- [techdrop](https://github.com/naiamartin/techdrop) — Sockets proyect in C/C++ for a home delivery online service.
+- [virtual wardrobe](https://github.com/naiamartin/ArmarioVirtual) — Java app that helps you organize your wardrobe and wishlist (swing based GUI).
 
 ## 📊 GitHub Stats
 
