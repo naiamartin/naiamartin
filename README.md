@@ -42,13 +42,14 @@ Here are some ideas to get you started:
 
 <hr>
 
-## 🚀 Class Group Projects
+<!--## 🚀 Class Group Projects
 
 - [techdrop](https://github.com/yagueto/techdrop) — Sockets proyect in C/C++ for a home delivery online service.
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naiamartin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naiamartin&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiamartin&layout=compact&theme=radical" />
 </p>
+-->
