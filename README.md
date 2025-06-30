@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=A259FF&duration=4000&lines=Hola+:);+Soy+Naia+Martin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=A259FF&duration=4000&lines=Hi+:);+I'm+Naia+Martin!;" />
 </h1>
 
 ### Software engineering student experimenting to find what inspires me most.
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,c,cpp,python" />
-  <img src="https://skillicons.dev/icons?i=html,figma" />
+  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,html" />
 </p>
 
 <hr>
